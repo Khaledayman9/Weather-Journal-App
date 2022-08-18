@@ -1,5 +1,5 @@
 # Weather-Journal-App
- An asynchronous web app that uses Web API and user data to dynamically update the UI in a Weather Journal application.
+ An asynchronous web app that uses Web API and user data to dynamically update the UI in a Weather Journal application using the OpenWeatherMap API.
  
 # Layout
 
@@ -14,6 +14,13 @@
 
 ![Weathersc](https://user-images.githubusercontent.com/105018459/185470062-631d4cca-af0b-40e5-a59d-04285e129fe6.PNG)
 
+
+
+
+
+# Notes
+
+- The zip-codes are only US zip-codes.
 
 
 # Dependencies:
