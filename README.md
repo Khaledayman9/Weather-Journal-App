@@ -5,9 +5,9 @@
 
 * It contains 2 input fields.
 
-1- The Zip-code input field.
+   - The Zip-code input field.
 
-2- The user's feelings input field.
+   - The user's feelings input field.
 
 * It contains a display area where it shows the user's feelings, current date and weather conditions.
 
